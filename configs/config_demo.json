@@ -1,0 +1,8 @@
+{
+    "semantic_types": "Age Group,Behavior,Biomedical Occupation or Discipline,Daily or Recreational Activity,Diagnostic Procedure,Educational Activity,Environmental Effect of Humans,Family Group,Finding,Food,Geographic Area,Governmental or Regulatory Activity,Group,Group Attribute,Health Care Activity,Health Care Related Organization,Human-caused Phenomenon or Process,Individual Behavior,Mental Process,Mental or Behavioral Dysfunction,Occupation or Discipline,Occupational Activity,Patient or Disabled Group,Population Group,Professional or Occupational Group,Self-help or Relief Organization,Social Behavior,Event",
+    "host":"DEMO_HOST", 
+    "user":"DEMO_USER", 
+    "password":"DEMO_PWD",
+    "port":"DEMO_PORT", 
+    "database":"DEMO_DB"
+}
